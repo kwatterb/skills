@@ -1,5 +1,7 @@
 #Kamden Watterberg Square of Number Script
 
+#Evidence of Commit 1
+
 def calculate_square(number):
     """Returns the square of a number."""
     return number * number
